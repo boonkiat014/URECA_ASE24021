@@ -1,7 +1,7 @@
 MATLAB/
 - Contains featuresExtraction_updated.m, the code we used to generate the results
 - Contains all MATLAB code outputs in the form of mat files
-- 
+
 
 
 Mat to Excel/
