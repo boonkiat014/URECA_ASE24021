@@ -1,0 +1,3 @@
+Collected features - image(row) by features(109 column)
+
+names{} - Contains the name of JPG image used. Total number of images should correspond to the total number of rows in Collected features. 
